@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "232e711a77e243f3211d6c51",
+  "owner": "wbafwstcc",
+  "repo": "page-0cfe68b6ff57da8c8276c8be",
+  "title": "圈钱机场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "0cfe68b6ff57da8c8276c8be",
+      "a": "圈钱机场",
+      "b": "",
+      "entity": "圈钱机场",
+      "brand": "圈钱机场",
+      "separator": "",
+      "path": "index.html",
+      "hash": "8321978e254831c799a79c66a1a023294fd0ace3c0d918a1805c8f269f9c6c08",
+      "content": {
+        "keyword1": "圈钱机场",
+        "keyword2": "",
+        "primary_entity": "圈钱机场",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "圈钱机场为您提供透明清晰的网络传输解决方案，通过全宽色带分层与横向套餐对比，带您领略不一样的数字通行体验。",
+          "AI_DESCRIPTION": "圈钱机场为您提供透明清晰的网络传输解决方案，通过全宽色带分层与横向套餐对比，带您领略不一样的数字通行体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #ffffff;--text-color: #111111;--accent-color: #ff5500;--accent-light: #fff2ed;--gray-bg: #f8f8f8;--border-color: #e5e5e5}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;background-color: var(--bg-color);color: var(--text-color);line-height: 1.6;padding-bottom: 60px}\nmain {display: block}\nheader, section {width: 100%}\n.hero-band {background-color: var(--text-color);color: #ffffff;padding: 80px 20px;text-align: center}\n.hero-band h1 {font-size: 3rem;font-weight: 800;margin-bottom: 20px;letter-spacing: -1px}\n.hero-band h1 span {color: var(--accent-color)}\n.hero-band p {font-size: 1.25rem;max-width: 700px;margin: 0 auto;color: #cccccc}\n.container {max-width: 1100px;margin: 0 auto;padding: 0 20px}\n.section-pad {padding: 60px 0}\n.bg-alt {background-color: var(--gray-bg)}\nh2 {font-size: 2rem;margin-bottom: 24px;font-weight: 700;letter-spacing: -0.5px}\n.author-essay {font-size: 1.125rem;color: #333333;line-height: 1.8;margin-bottom: 20px}\n.plans-table-wrapper {overflow-x: auto;margin-top: 30px}\n.plans-table {width: 100%;border-collapse: collapse;text-align: left;background: #ffffff;border: 1px solid var(--border-color)}\n.plans-table th, .plans-table td {padding: 20px;border-bottom: 1px solid var(--border-color)}\n.plans-table th {background-color: var(--gray-bg);font-weight: 700;font-size: 1.1rem}\n.plans-table tr:hover {background-color: var(--accent-light)}\n.featured-badge {display: inline-block;background-color: var(--accent-color);color: #ffffff;padding: 2px 8px;font-size: 0.75rem;border-radius: 4px;margin-left: 8px;vertical-align: middle}\n.features-list {list-style: none}\n.features-list li {margin-bottom: 8px;position: relative;padding-left: 20px}\n.features-list li::before {content: \"—\";position: absolute;left: 0;color: var(--accent-color)}\n.card-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));gap: 24px;margin-top: 30px}\n.card {background: #ffffff;border: 1px solid var(--border-color);padding: 30px;position: relative;border-left: 6px solid var(--accent-color)}\n.card h3 {font-size: 1.25rem;margin-bottom: 12px}\n.faq-dual {display: grid;grid-template-columns: 1fr 1fr;gap: 40px;margin-top: 30px}\n.faq-item {margin-bottom: 30px}\n.faq-item h3 {font-size: 1.1rem;margin-bottom: 8px;color: var(--text-color)}\n.faq-item p {color: #555555;font-size: 0.95rem}\n.bottom-nav {position: fixed;bottom: 0;left: 0;width: 100%;background-color: rgba(17, 17, 17, 0.95);backdrop-filter: blur(5px);color: #ffffff;padding: 15px 0;z-index: 1000;text-align: center}\n.bottom-nav a {color: #ffffff;text-decoration: none;margin: 0 20px;font-size: 0.9rem;transition: color 0.2s}\n.bottom-nav a:hover {color: var(--accent-color)}\n@media (max-width: 768px) {\n  .faq-dual {grid-template-columns: 1fr;gap: 20px}\n  .hero-band h1 {font-size: 2.2rem}\n}\n</style><main>\n  \n  <header class=\"hero-band\">\n    <div class=\"container\">\n      <h1>洞悉数字边界 <span>圈钱机场</span></h1>\n        <p>在信息交织的现代网络中，如何寻找一条清晰、直接且符合预期的传输路径？我们以专栏作家的客观视角，为您解构连接服务的本质。</p>\n    </div>\n  </header>\n\n  \n  <section class=\"section-pad\">\n    <div class=\"container\">\n      <h2>主编手记：关于连接的另一种审视</h2>\n      <p class=\"author-essay\">\n        市面上的服务名称往往带有某种戏谑或直白的标签，正如“圈钱机场”这个名字所展现的那样，它不加掩饰地将商业本质摊开在阳光下。然而，在实际体验中，决定一项服务价值的从来不是夸张的宣传，而是底层架构的扎实程度、节点调度的响应速度以及在高峰时段能否保持稳定的吞吐能力。\n      </p>\n      <p class=\"author-essay\">\n        我们通过长期观察发现，优秀的传输方案应当具备透明的定价结构、明确的设备配额以及无需冗余解释的可用性。为此，我们在下方为您梳理了核心套餐与常见疑问，帮助您在纷繁的选择中做出最理性的判断。\n      </p>\n    </div>\n  </section>\n\n  \n  <section class=\"section-pad bg-alt\" id=\"plans\">\n    <div class=\"container\">\n      <h2>套餐方案横向对照</h2>\n      <p>清晰比对各项配置，按需选择最适合您的流量与并发额度。</p>\n      \n      <div class=\"plans-table-wrapper\">\n        <table class=\"plans-table\">\n          <thead>\n            <tr>\n              <th>规格名称</th>\n              <th>月付标准</th>\n              <th>年付优惠</th>\n              <th>核心权益与配置</th>\n            </tr>\n          </thead>\n          <tbody>\n            <tr>\n              <td><strong>基础版</strong></td>\n              <td>¥15/月</td>\n              <td>¥150/年</td>\n              <td>\n                <ul class=\"features-list\">\n                  <li>每月 100GB 极速流量</li>\n                  <li>支持 3 台设备同时在线</li>\n                  <li>解锁基础流媒体</li>\n                  <li>普通线路节点池</li>\n                </ul>\n              </td>\n            </tr>\n            <tr>\n              <td><strong>旗舰版</strong> <span class=\"featured-badge\">推荐</span></td>\n              <td>¥35/月</td>\n              <td>¥350/年</td>\n              <td>\n                <ul class=\"features-list\">\n                  <li>每月 300GB 极速流量</li>\n                  <li>支持 5 台设备同时在线</li>\n                  <li>全节点原生流媒体解锁</li>\n                  <li>IPLC 专线游戏加速优化</li>\n                  <li>7x24 优先工单支持</li>\n                </ul>\n              </td>\n            </tr>\n            <tr>\n              <td><strong>团队版</strong></td>\n              <td>¥85/月</td>\n              <td>¥850/年</td>\n              <td>\n                <ul class=\"features-list\">\n                  <li>每月 1000GB 极速流量</li>\n                  <li>支持 20 台设备同时在线</li>\n                  <li>VIP 专属高带宽节点</li>\n                  <li>支持企业定制路由</li>\n                  <li>专属客户经理服务</li>\n                </ul>\n              </td>\n            </tr>\n          </tbody>\n        </table>\n      </div>\n    </div>\n  </section>\n\n  \n  <section class=\"section-pad\" id=\"features\">\n    <div class=\"container\">\n      <h2>核心架构特征</h2>\n      <div class=\"card-grid\">\n        <div class=\"card\">\n          <h3>多线路由冗余</h3>\n          <p>系统自动检测各骨干网出口状态，在主线路遭遇波动时无感切换至备用链路，确保长时间连接不断开。</p>\n        </div>\n        <div class=\"card\">\n          <h3>原生流媒体解锁</h3>\n          <p>针对各大主流影音平台优化出口 IP 属性，保障跨区域访问时的内容完整性与高清播放流畅度。</p>\n        </div>\n        <div class=\"card\">\n          <h3>专线游戏低延迟</h3>\n          <p>旗舰与团队版用户享有独立 IPLC 通道，大幅降低物理距离带来的传输往返时间，告别卡顿与跳ping。</p>\n        </div>\n      </div>\n    </div>\n  </section>\n\n  \n  <section class=\"section-pad bg-alt\" id=\"faq\">\n    <div class=\"container\">\n      <h2>常见问题解析</h2>\n      <div class=\"faq-dual\">\n        <div>\n          <div class=\"faq-item\">\n            <h3>如何开始使用圈钱机场的服务？</h3>\n            <p>您只需在上方选择符合您需求的套餐并完成配置订阅，系统将自动生成专属链接，导入至主流客户端即可直接启用。</p>\n          </div>\n          <div class=\"faq-item\">\n            <h3>套餐流量是按自然月重置吗？</h3>\n            <p>是的，所有套餐的可用流量均在每个计费周期的对应日自动清零并重置为满额状态，不支持未用流量累加至下月。</p>\n          </div>\n        </div>\n        <div>\n          <div class=\"faq-item\">\n            <h3>支持哪些客户端与操作系统？</h3>\n            <p>完美适配市面上主流的各类通用连接客户端，覆盖主流桌面与移动端操作系统，官方文档提供详细的配置指引。</p>\n          </div>\n          <div class=\"faq-item\">\n            <h3>如果遇到连接不稳定应该如何处理？</h3>\n            <p>您可以优先查阅后台的公告板获取最新节点状态，或通过工单系统向技术支持团队反馈，旗舰及团队版享有优先响应服务。</p>\n          </div>\n        </div>\n      </div>\n    </div>\n  </section>\n</main>\n\n\n<nav class=\"bottom-nav\">\n  <a href=\"#plans\">套餐对照</a>\n  <a href=\"#features\">核心特征</a>\n  <a href=\"#faq\">常见问题</a>\n  <a href=\"#\">返回顶部</a>\n</nav>",
+          "hash": "601335e13b2b2e8b48cd4155f444ef6fde5d072a2976abbb5b63ee1e7abea379",
+          "seo": {
+            "title": "圈钱机场 - 深度解析与连接方案选择",
+            "keywords": "圈钱机场,网络加速,专线连接,流媒体解锁,套餐对比",
+            "description": "圈钱机场为您提供透明清晰的网络传输解决方案，通过全宽色带分层与横向套餐对比，带您领略不一样的数字通行体验。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "7215",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "psyat.cn",
+    "host": "p-fb4eb72726.psyat.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "a1799b8ed25537da7ecae23348b41fd758f81e8530242b2a9cabca22017e7f37",
+    "sitemap.xml": "10f381310b9e65de529deecb6522744e4639db5ee69e30aeff69444b0e51b5be",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bd4f9db1732d5ce73583716800cb1458c141b4e46cccab331d5e8fe85af50268",
+    "robots.txt": "3f43be04ef431b80fa5837d961b34a16198ad07469f7f4735536b4a1a6366968",
+    "cc4ca942f9c84a6fd7e13b4d9afb2639.txt": "f5dee7f81c2459aef68266bab3d6b8ac9ebb02193b9668ac5e0bebab25c0788f"
+  },
+  "revision": "292806a3df933b068b5483ec7b7eb36476c0430a48ed0b2f70e8924c74f8afe6"
+}
